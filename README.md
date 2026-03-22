@@ -1,1 +1,1 @@
-# Rail-Connect
+# AI-Teaching-Platform-Prototype
